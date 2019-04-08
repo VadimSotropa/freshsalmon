@@ -2116,7 +2116,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-rn605kT5Td .mbr-section-subtitle {
-  color: #767676;
+  color: #090000;
 }
 .cid-rn605kT5Td a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2127,6 +2127,9 @@ body {
 }
 .cid-rn605kT5Td textarea.form-control {
   min-height: 188px;
+}
+.cid-rn605kT5Td H2 {
+  color: #fc2828;
 }
 .cid-rn5eoL6NrE {
   padding-top: 90px;
