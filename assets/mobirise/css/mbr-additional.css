@@ -2150,13 +2150,13 @@ body {
 .cid-rn605kT5Td {
   padding-top: 30px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #090000;
 }
 .cid-rn605kT5Td .title {
   margin-bottom: 2rem;
 }
 .cid-rn605kT5Td .mbr-section-subtitle {
-  color: #090000;
+  color: #ffffff;
 }
 .cid-rn605kT5Td a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2170,6 +2170,9 @@ body {
 }
 .cid-rn605kT5Td H2 {
   color: #fc2828;
+}
+.cid-rn605kT5Td LABEL {
+  color: #ffffff;
 }
 .cid-rmSr3nlml0 .navbar {
   padding: .5rem 0;
